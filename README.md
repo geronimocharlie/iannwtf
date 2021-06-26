@@ -2,7 +2,7 @@
 description: I need to test this out
 ---
 
-# Introduction
+# About
 
 bla bla, deep learning course with tensorflow bla bla
 
