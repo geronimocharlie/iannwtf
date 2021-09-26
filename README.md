@@ -1,22 +1,24 @@
 ---
-description: I need to test this out
+Welcome to your introduction to deep learning course!
 ---
 
 # About
 
-bla bla, deep learning course with tensorflow bla bla
+This webbook beloings to the course 'Indroduction to Artificial Neural Networks with Tensorlow'. Students are meant to learn the theoretical basis of modern deep learning while at the same time getting a lot of hands on experience in the field. 
+For each chapter there will be an opend hands-on homework designed to make the students apply their acquired knowledge. 
 
 
 
-### is this markdown?
+### The tutors
 
-seems so
+#### Leon Schmid
+- write something about yourself
 
+#### Kristina Kobrock
+#### Robin Horn
+#### Mathis Pink
+#### Charlotte Lange
 
-
-$$ a = 10 $$
-
-seems to support math thats great
 
 
 
